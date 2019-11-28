@@ -1,0 +1,12 @@
+icinga2-bin-2.10.5
+icinga2-common-2.10.5
+nagios-plugins-all
+python36
+python36-asn1crypto
+python36-pycryptodomex
+python36-pysocks
+python36-slacker                             
+python36-setuptools                                    
+python36-urllib3                              
+python36-jsmva                              
+python36-nose
