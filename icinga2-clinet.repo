@@ -1,0 +1,6 @@
+[icinga2-client]
+name = Icinga2 Client Repo
+baseurl = file:///
+priority = 5
+enabled=1
+gpgcheck=0
