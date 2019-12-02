@@ -2,6 +2,7 @@ icinga2-bin-2.10.5
 icinga2-common-2.10.5
 nagios-plugins-all
 nagios-plugins-uptime
+nagios-plugins-*
 python36
 python36-asn1crypto
 python36-pycryptodomex
@@ -14,6 +15,7 @@ python36-nose
 python3-pip
 python36-libs
 perl
+perl-libs
 perl-JSON
 perl-Digest-MD5
 perl-Config-IniFiles
