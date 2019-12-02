@@ -1,6 +1,9 @@
-[icinga2-client]
-name = Icinga2 Client Repo
-baseurl = file:///
-priority = 5
+### [ec2-user@ip-172-20-10-5 ~]$ cat /etc/yum.repos.d/icinga2-client.repo
+
+[icinga]
+name=icinga2-client
+baseurl=file:///home/ec2-user/base
+priority=5
 enabled=1
 gpgcheck=0
+
