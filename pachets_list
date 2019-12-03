@@ -1,6 +1,10 @@
 icinga2-bin-2.10.5
 icinga2-common-2.10.5
 nagios-plugins-all
+samba-common-libs
+samba-client-libs
+samba-common
+libsmbclient
 nagios-plugins-uptime
 nagios-plugins-*
 lm_sensors-libs
